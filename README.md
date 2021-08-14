@@ -32,6 +32,11 @@ The following are supported out of the box, however adding additional services i
 * Vudu
 * blinkbox
 * BBC iPlayer[[n5]](#footnotes)
+* viu.com
+* TVB(Hong Kong)
+* AbemaTV
+* Disney +
+* 巴哈姆特動畫瘋(Taiwan)
 * NBC Sports and potentially many [more](https://github.com/ab77/netflix-proxy/blob/master/proxy-domains.txt)
 
 # license
